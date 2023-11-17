@@ -194,7 +194,7 @@ image_path = 'food_delivery.png'
 image = Image.open(image_path)
 # Markdown Slogan Cury Company
 st.sidebar.image(image,  width=150)
-st.sidebar.markdown('# :orange[**Cury Company**]')
+st.sidebar.markdown('# Cury Company')
 st.sidebar.markdown('### Fastest Delivery in Town')
 st.sidebar.markdown("""---""")
 
