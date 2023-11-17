@@ -10,7 +10,7 @@ st.set_page_config(
 image = Image.open('food_delivery.png')
 st.sidebar.image(image, width=150)
 
-st.sidebar.markdown('# :orange[**Cury Company**]')
+st.sidebar.markdown(Cury Company)
 st.sidebar.markdown('### Fastest Delivery in Town')
 st.sidebar.markdown("""---""")
 
